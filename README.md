@@ -1,1 +1,1 @@
-# ddos-machine-temel
+Coder : Seyit Mehmet Kiren
